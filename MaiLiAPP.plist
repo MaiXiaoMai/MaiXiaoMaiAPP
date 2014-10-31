@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.mailiwanghoc.maixiaomai</string>
 				<key>bundle-version</key>
-				<string>2.0.1</string>
+				<string>2.1.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>MaiXiaoMai2.0.1</string>
+				<string>麦小麦</string>
 			</dict>
 		</dict>
 	</array>
